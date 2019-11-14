@@ -4,7 +4,7 @@ In this project, I have made a simple **KBC** Game in **Python** which let's you
 To improve the features of this game, I have used `pyttsx3` module of python, which let speak all the text, that you wanna 
 play, showing the replica of the original **KBC** Game. I have given the installation process of this module further.
 
-## Requirements
+## The Requirements
 
 ### Installation process 
 
